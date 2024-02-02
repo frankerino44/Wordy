@@ -1,6 +1,5 @@
 # Wordy
 
-Kinda crazy what happens when you actually start the project at a somewhat reasonable time lol.<br>
 From what I can see everything works exactly as I want it to.<br>
 Really enjoyed working on this one.<br>
 <br>
